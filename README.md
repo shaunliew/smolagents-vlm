@@ -4,6 +4,8 @@ A Streamlit-based web application that leverages [smolagents with Vision Languag
 
 ![smolagents vlm demo](./smolagents-vlm-demo.gif)
 
+[Youtube Link](https://youtu.be/Wx4mIwrFpxc)
+
 ## Key Visual AI Features
 
 - **Vision Language Model Integration**: Utilizes [smolagents](https://github.com/huggingface/smolagents/tree/main)' VLM support for understanding webpage layouts, product images, and visual elements
